@@ -1,5 +1,9 @@
 # Breakout Radar — token-radar-01
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/dario-larsen/momentum-breakout-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/dario-larsen/momentum-breakout-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A token launch radar that ranks pre-token protocols by the implied value of a token
 they have not issued yet. The angle is momentum breakout: a protocol whose TVL is
 growing fast right now, while the snapshot records no token, is breaking out, and
